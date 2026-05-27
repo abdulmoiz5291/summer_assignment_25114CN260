@@ -1,5 +1,5 @@
 # summer_assignment_25114CN260
-# 🚀 Kanan Sangal - GL Bajaj Summer Assignments 2026, 25113CN364.
+# 🚀 Abdul Moiz - GL Bajaj Summer Assignments 2026, 25114CN260.
 
 A comprehensive repository tracking my daily progress through foundational programming logic, algorithmic problem-solving, and core software engineering concepts during the undergraduate summer term.
 
