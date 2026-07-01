@@ -2,7 +2,7 @@
 int main () 
 {
     int n, i, j, gcd = 1;
-    printf("Enter 1st and 2nd number:");
+    printf("Enter first and second number:");
     scanf("%d %d",&i,&j);
     
     for (n = 1; n <= i && n <= j;n++)

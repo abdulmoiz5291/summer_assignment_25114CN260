@@ -4,7 +4,7 @@ int main(void)
 {
     int n, i, fact = 1;
 
-    printf("Enter the number: ");
+    printf("Enter a number: ");
     scanf("%d", &n);
 
     for (i = 1; i <= n; i++)

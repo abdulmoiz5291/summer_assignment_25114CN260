@@ -9,3 +9,4 @@ int main () {
     printf("Sum of first %d natural numbers is: %d",n,sum);
     return 0;
 }
+        

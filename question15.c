@@ -3,7 +3,7 @@ int main ()
 { 
     int n, remainder, original, result=0;
     
-    printf("Enter the number:");
+    printf("Enter a number:");
     scanf("%d",&n);
     
     original = n;

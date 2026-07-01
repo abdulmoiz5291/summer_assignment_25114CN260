@@ -2,7 +2,7 @@
 int main () {
     
   int num, remainder, place = 1, decimal = 0;  
-  printf("Enter the number in binary form:");
+  printf("Enter a number in binary form:");
   scanf("%d", &num);
   
   while ( num > 0 ) {

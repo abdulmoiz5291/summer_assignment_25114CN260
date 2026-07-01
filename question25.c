@@ -13,7 +13,7 @@ else
 }
 int main () {
     int n;
-    printf("Enter the number:");
+    printf("Enter a number:");
     scanf("%d",&n);
     
     printf("The factorial of number is:%d",factorial(n));

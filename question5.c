@@ -2,7 +2,7 @@
 
 int main() {
     int n, i, sum = 0;
-    printf("Enter the number:");
+    printf("Enter number:");
     scanf("%d",&n);
     
     while (n != 0) {

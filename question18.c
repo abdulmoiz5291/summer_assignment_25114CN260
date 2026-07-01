@@ -4,7 +4,7 @@ int main ()
 {
    int n, temp, i, remainder, sum = 0, fact; 
     
-   printf("Enter the number:");  
+   printf("Enter the nuber:");  
    scanf("%d",&n);
    
    temp = n;

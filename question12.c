@@ -2,7 +2,7 @@
 int main () 
 {
     int n, i, j, lcm;
-    printf("Enter 1st and 2nd number:");
+    printf("Enter first and second number:");
     scanf("%d %d",&i,&j);
     
     n = (i > j) ? i : j;

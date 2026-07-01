@@ -3,7 +3,7 @@
 int main ()
 {
    int n, original, remainder, count = 0; 
-   printf("Enter the decimal number:");
+   printf("Enter a decimal number:");
    scanf("%d",&n);
    original = n;
    
@@ -15,6 +15,6 @@ int main ()
    }
     n = n / 2;
     }
-   printf("There are %d 1s bits in %d",count ,original);
+   printf("There abe %d 1s bits in %d",count ,original);
    return 0; 
 }   

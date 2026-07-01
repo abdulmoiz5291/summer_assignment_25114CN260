@@ -14,7 +14,7 @@ int fibonacci(int n) {
 int main ()
 {
  int n;
- printf("Enter the term:");  
+ printf("Enter a term:");  
  scanf("%d",&n);
     
  printf("The %d term of fibonacci is %d", n, fibonacci(n));   

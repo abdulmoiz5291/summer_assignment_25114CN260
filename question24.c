@@ -12,6 +12,6 @@ int main () {
     {
         result = n * result;
     }    
-   printf("The Number %d is raised to %d which equals to %d",n ,x ,result);
+   printf("The Nummer %d is raised to %d which equals to %d",n ,x ,result);
    return 0;
 }

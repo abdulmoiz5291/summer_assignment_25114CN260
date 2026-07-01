@@ -5,7 +5,7 @@ int main ()
   int a = 0, b = 1, nextterm;
   
   int i,n;
-  printf("Total number of terms:");
+  printf("Total number ofterms:");
   scanf("%d",&n);
   
   printf("The fibbonacci series is \n");

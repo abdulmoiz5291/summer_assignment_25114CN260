@@ -3,7 +3,7 @@
 int main() {
     
    int n, i; 
-   printf("Enter the number:");
+   printf("Enter a number:");
    scanf("%d",&n);
 
    printf("Factors of %d are ",n); 

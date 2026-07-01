@@ -3,7 +3,7 @@ int main ()
 {     
     int start, end, n, remainder, original, temp, result;
     
-    printf("Enter the first and last number:");
+    printf("Enter the first an last number:");
     scanf("%d %d",&start,&end);
     printf("Armstrong number in range of %d and %d is:\n",start ,end);
     

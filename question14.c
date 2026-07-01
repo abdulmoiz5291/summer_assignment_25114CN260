@@ -4,7 +4,7 @@ int main() {
     int n, i;
     int a = 0, b = 1, nextterm;
 
-    printf("Enter nth term: ");
+    printf("Enter nthterm: ");
     scanf("%d", &n);
 
     if (n == 1) {

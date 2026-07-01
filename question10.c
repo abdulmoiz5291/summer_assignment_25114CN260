@@ -6,7 +6,7 @@ int main ()
    printf("Enter the first and last number:");
    scanf("%d %d",&start,&end);
     
-   printf("The prime numbers in range of %d and %d is", start, end);
+   printf("The prime number in range of %d and %d is", start, end);
    
     for (i = start; i <= end; i++) {
       count = 0; 

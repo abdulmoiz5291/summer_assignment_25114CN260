@@ -3,7 +3,7 @@
 int main() {
     int num;
 
-    printf("Enter a number: ");
+    printf("Enter a nber: ");
     scanf("%d", &num);
 
     printf("Multiplication table of %d:\n", num);
